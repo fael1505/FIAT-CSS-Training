@@ -1,0 +1,55 @@
+#car-list{
+    width: 99%;
+    display: inherit;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#car-list #car {
+    width: 30%;
+    height: auto;
+    min-width: 200px;
+    max-width: 325px;
+    background:white;
+    margin: 10px 1% 10px 1%;
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+#car-list #car p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6vw;
+}
+#car-list #car #car-img{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}
+#car-list #car #car-name{
+    color:rgb(32, 32, 32);
+    margin-bottom:0;
+}
+#car-list #car #car-type{
+    color:rgb(255, 0, 16);
+    font-size:1.2vw;
+    margin-top:5px;
+}
+#car-list #car #car-price-comp{
+    font-size:0.9vw;
+    text-decoration: line-through;
+}
+#car-list #car #car-price{
+    font-size:1.4vw;
+}
+#car-list #car #description-title{
+    font-size:1.6vw;
+    color: rgb(255, 0, 16);
+    border-top: 1px solid rgb(255, 0, 16);
+    border-bottom: 1px solid rgb(255, 0, 16);
+    padding: 2px;
+}
+#car-list #car #description{
+    font-size:1vw;
+    display: table-cell;
+    text-align: left;
+}
