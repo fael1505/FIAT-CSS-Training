@@ -11,14 +11,14 @@
     max-width: 325px;
     background:white;
     margin: 10px 1% 10px 1%;
-    padding: 5px;
+    padding: 15px;
     display: inline-block;
     vertical-align: top;
 }
 #car-list #car p {
     text-align: center;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 1.1em;
 }
 #car-list #car #car-img{
     width: 100%;
@@ -31,25 +31,25 @@
 }
 #car-list #car #car-type{
     color:rgb(255, 0, 16);
-    font-size:1.2vw;
+    font-size:0.8em;
     margin-top:5px;
 }
 #car-list #car #car-price-comp{
-    font-size:0.9vw;
+    font-size:0.6em;
     text-decoration: line-through;
 }
 #car-list #car #car-price{
-    font-size:1.4vw;
+    font-size:1.1em;
 }
 #car-list #car #description-title{
-    font-size:1.6vw;
+    font-size:1em;
     color: rgb(255, 0, 16);
     border-top: 1px solid rgb(255, 0, 16);
     border-bottom: 1px solid rgb(255, 0, 16);
     padding: 2px;
 }
 #car-list #car #description{
-    font-size:1vw;
+    font-size:0.6em;
     display: table-cell;
     text-align: left;
 }
