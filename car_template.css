@@ -18,7 +18,7 @@
 #car-list #car p {
     text-align: center;
     font-weight: bold;
-    font-size: 1.6vw;
+    font-size: 2em;
 }
 #car-list #car #car-img{
     width: 100%;
